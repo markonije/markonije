@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://marko.postical.co](https://marko.postical.co)
 
-- 📫 How to reach me **marko@postical.co**
+- 📫 How to reach me: **marko@postical.co**
 
-- 📄 Know about my experiences [https://read.cv/markonije](https://read.cv/markonije)
+- 📄 Know about my experiences: [https://read.cv/markonije](https://read.cv/markonije)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
