@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marko</h1>
-<h3 align="center">web developer, motorsport enthusiast, middle school student from Serbia.</h3>
+<h3 align="center">web developer, politics enthusiast, highschool student from Serbia.</h3>
 
 - 🔭 I’m currently working on [EduCompass](https://educompass.rs)
-
-- 🏎️ I’m starting an amateur karting and racing team called [postical.racing](https://postical.co)
 
 - 👨‍💻 All of my projects are available at [https://marko.postical.co](https://marko.postical.co)
 
